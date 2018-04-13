@@ -1,6 +1,5 @@
 .primeira {
  width: 100%;
- border: solid;
  background-color: gray;
 }
 
@@ -9,4 +8,11 @@
  width: 30%;
  float: right;
 }
+
+.teste2 {
+ display: inline;
+ width: 30%;
+ float: center;
+}
+
 
